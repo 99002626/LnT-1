@@ -35,7 +35,7 @@ public class DownloadTask extends AsyncTask<String,Integer,Void> {
         }
         return null;
     }
-
+///changed
     @Override
     protected void onProgressUpdate(Integer... values) {
         super.onProgressUpdate(values);
